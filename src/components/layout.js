@@ -9,7 +9,7 @@ const Layout = ({ children }) => {
       <Helmet>{/* load external scripts/css/fonts here */}</Helmet>
       <div
         style={{
-          background: "linear-gradient(180deg, #0e131d, #060a10 30.65%)",
+          background: "linear-gradient(180deg, #3498eb, #fafafa 50.65%)",
           minHeight: "100vh",
         }}
       >
